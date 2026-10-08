@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-09-26T12:03:00",
+  "generated_at": "2026-10-08T14:53:23",
   "vehicle_count": 211,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2013 Ford Escape 4WD 4dr SEin Terrace",
       "vin": "1FMCU9GX7DUD60482",
       "stock": "NUMBER",
+      "trim": "SEin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/e6bbb50a23a4.html",
       "source_url": "https://www.terracechrysler.com/used/2013-Ford-Escape-id14281697.html",
       "dealer_url": "https://www.terracechrysler.com/used/2013-Ford-Escape-id14281697.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,8 +19,10 @@
       "odometer_km": 144959,
       "year": 2013,
       "make": "Ford",
-      "model": "Escape 4WD 4dr SEin Terrace",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape ",
@@ -34,7 +37,9 @@
       "year": 2013,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Crosstour Ex-Lin Terrace",
@@ -50,7 +55,9 @@
       "year": 2014,
       "make": "Honda",
       "model": "Crosstour Ex-Lin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Crosstour ",
@@ -65,12 +72,15 @@
       "year": 2014,
       "make": "Honda",
       "model": "Crosstour",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 1500 4WD Quad Cab 6.4 Ft Box SLTin Terrace",
       "vin": "1C6RR7GMXES294086",
       "stock": "NUMBER",
+      "trim": "Quad SLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3b8e0ea00c27.html",
       "source_url": "https://www.terracechrysler.com/used/2014-RAM-1500-id14147014.html",
       "dealer_url": "https://www.terracechrysler.com/used/2014-RAM-1500-id14147014.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -80,8 +90,10 @@
       "odometer_km": 152000,
       "year": 2014,
       "make": "RAM",
-      "model": "1500 4WD Quad Cab 6.4 Ft Box SLTin Terrace",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 1500 ",
@@ -96,7 +108,9 @@
       "year": 2014,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Chevrolet Silverado 1500 Crew Cab Short Box 4-Wheel Drive LT w/1LTin Terrace",
@@ -112,7 +126,9 @@
       "year": 2016,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive LT w/1LTin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Chevrolet Silverado 1500 ",
@@ -127,7 +143,9 @@
       "year": 2016,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Chevrolet Silverado 1500 ",
@@ -142,12 +160,15 @@
       "year": 2016,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Dodge Grand Caravan 4dr Wgn Canada Value Packagein Terrace",
       "vin": "2C4RDGBG0GR223685",
       "stock": "NUMBER",
+      "trim": "Wgn Canada Value Packagein Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c676b403e466.html",
       "source_url": "https://www.terracechrysler.com/used/2016-Dodge-Grand_Caravan-id14359495.html",
       "dealer_url": "https://www.terracechrysler.com/used/2016-Dodge-Grand_Caravan-id14359495.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -157,8 +178,10 @@
       "odometer_km": 119593,
       "year": 2016,
       "make": "Dodge",
-      "model": "Grand Caravan 4dr Wgn Canada Value Packagein Terrace",
-      "condition": "used"
+      "model": "Grand Caravan",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Dodge Grand Caravan ",
@@ -173,7 +196,9 @@
       "year": 2016,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Dodge Grand Caravan ",
@@ -188,7 +213,9 @@
       "year": 2016,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Dodge Grand Caravan ",
@@ -203,7 +230,9 @@
       "year": 2016,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 Dodge Grand Caravan ",
@@ -218,12 +247,15 @@
       "year": 2016,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 GMC Terrain AWD SLTin Terrace",
       "vin": "2GKFLUEKXG6265775",
       "stock": "NUMBER",
+      "trim": "SLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/e9327b9f987f.html",
       "source_url": "https://www.terracechrysler.com/used/2016-GMC-Terrain-id14304804.html",
       "dealer_url": "https://www.terracechrysler.com/used/2016-GMC-Terrain-id14304804.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -233,8 +265,10 @@
       "odometer_km": 161031,
       "year": 2016,
       "make": "GMC",
-      "model": "Terrain AWD SLTin Terrace",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 GMC Terrain ",
@@ -249,12 +283,15 @@
       "year": 2016,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 2500 Unknownin Terrace",
       "vin": "3C6UR5KL7GG286163",
       "stock": "NUMBER",
+      "trim": "Unknownin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/abf85e93e2b5.html",
       "source_url": "https://www.terracechrysler.com/used/2016-RAM-2500-id14438506.html",
       "dealer_url": "https://www.terracechrysler.com/used/2016-RAM-2500-id14438506.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -264,8 +301,10 @@
       "odometer_km": 250107,
       "year": 2016,
       "make": "RAM",
-      "model": "2500 Unknownin Terrace",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 2500 ",
@@ -280,7 +319,9 @@
       "year": 2016,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2017 GMC Sierra 1500 4WD Crew Cab Short Box SLEin Terrace",
@@ -296,7 +337,9 @@
       "year": 2017,
       "make": "GMC",
       "model": "Sierra 1500 4WD Crew Cab Short Box SLEin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2017 GMC Sierra 1500 ",
@@ -311,7 +354,9 @@
       "year": 2017,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2017 GMC Sierra 1500 ",
@@ -326,12 +371,15 @@
       "year": 2017,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 4WD Crew Cab 5.7 Ft Box Rebelin Terrace",
       "vin": "1C6RR7YT1HS501460",
       "stock": "NUMBER",
+      "trim": "Rebelin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/be2d84f4ef7f.html",
       "source_url": "https://www.terracechrysler.com/used/2017-RAM-1500-id14365260.html",
       "dealer_url": "https://www.terracechrysler.com/used/2017-RAM-1500-id14365260.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -341,8 +389,10 @@
       "odometer_km": 142829,
       "year": 2017,
       "make": "RAM",
-      "model": "1500 4WD Crew Cab 5.7 Ft Box Rebelin Terrace",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -357,7 +407,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -372,12 +424,15 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler Sport 4x4in Terrace",
       "vin": "1C4BJWDG7JL914603",
       "stock": "NUMBER",
+      "trim": "Sport 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/ec2a2e8b07f5.html",
       "source_url": "https://www.terracechrysler.com/used/2018-Jeep-Wrangler-id13870950.html",
       "dealer_url": "https://www.terracechrysler.com/used/2018-Jeep-Wrangler-id13870950.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -387,8 +442,10 @@
       "odometer_km": 142563,
       "year": 2018,
       "make": "Jeep",
-      "model": "Wrangler Sport 4x4in Terrace",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -403,7 +460,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -418,12 +477,15 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee Trailhawk Elite 4x4in Terrace",
       "vin": "1C4PJMBX7KD468087",
       "stock": "NUMBER",
+      "trim": "Trailhawk Elite 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c2286f213f3a.html",
       "source_url": "https://www.terracechrysler.com/used/2019-Jeep-Cherokee-id14012300.html",
       "dealer_url": "https://www.terracechrysler.com/used/2019-Jeep-Cherokee-id14012300.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -433,8 +495,10 @@
       "odometer_km": 53891,
       "year": 2019,
       "make": "Jeep",
-      "model": "Cherokee Trailhawk Elite 4x4in Terrace",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -449,7 +513,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -464,13 +530,16 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Outback Limitedin Terrace",
       "vin": "4S4BSFNC6K3302219",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limitedin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/66c06e21d8a5.html",
       "source_url": "https://www.terracechrysler.com/used/2019-Subaru-Outback-id14413558.html",
       "dealer_url": "https://www.terracechrysler.com/used/2019-Subaru-Outback-id14413558.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -480,8 +549,10 @@
       "odometer_km": 130060,
       "year": 2019,
       "make": "Subaru",
-      "model": "Outback Limitedin Terrace",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Outback ",
@@ -497,7 +568,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Outback ",
@@ -513,12 +586,15 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer Limited 4WDin Terrace",
       "vin": "1FMSK8FH3LGB07940",
       "stock": "NUMBER",
+      "trim": "Limited 4WDin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f4e458addd3f.html",
       "source_url": "https://www.terracechrysler.com/used/2020-Ford-Explorer-id14320219.html",
       "dealer_url": "https://www.terracechrysler.com/used/2020-Ford-Explorer-id14320219.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,8 +604,10 @@
       "odometer_km": 79857,
       "year": 2020,
       "make": "Ford",
-      "model": "Explorer Limited 4WDin Terrace",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ",
@@ -544,7 +622,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ",
@@ -559,12 +639,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Gladiator Rubicon 4x4in Terrace",
       "vin": "1C6JJTBG1LL215085",
       "stock": "NUMBER",
+      "trim": "Rubicon 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/422c3bb1e6f2.html",
       "source_url": "https://www.terracechrysler.com/used/2020-Jeep-Gladiator-id14034188.html",
       "dealer_url": "https://www.terracechrysler.com/used/2020-Jeep-Gladiator-id14034188.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -574,8 +657,10 @@
       "odometer_km": 48000,
       "year": 2020,
       "make": "Jeep",
-      "model": "Gladiator Rubicon 4x4in Terrace",
-      "condition": "used"
+      "model": "Gladiator",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Gladiator ",
@@ -590,12 +675,15 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler Sahara 4x4in Terrace",
       "vin": "1C4HJXEG9LW212685",
       "stock": "NUMBER",
+      "trim": "Sahara 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f7ffb8e3338f.html",
       "source_url": "https://www.terracechrysler.com/used/2020-Jeep-Wrangler-id13385350.html",
       "dealer_url": "https://www.terracechrysler.com/used/2020-Jeep-Wrangler-id13385350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -605,8 +693,10 @@
       "odometer_km": 97476,
       "year": 2020,
       "make": "Jeep",
-      "model": "Wrangler Sahara 4x4in Terrace",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler ",
@@ -621,7 +711,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Gladiator ",
@@ -636,7 +728,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler ",
@@ -651,7 +745,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 Crew Cab Standard Box 4-Wheel Drive High Countryin Terrace",
@@ -667,7 +763,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive High Countryin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 ",
@@ -682,7 +780,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 ",
@@ -697,12 +797,15 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe Ultimate Calligraphy AWDin Terrace",
       "vin": "5NMS5DAL8MH326919",
       "stock": "NUMBER",
+      "trim": "Ultimate Calligraphy AWDin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/0cb1c13301c6.html",
       "source_url": "https://www.terracechrysler.com/used/2021-Hyundai-Santa_Fe-id13636176.html",
       "dealer_url": "https://www.terracechrysler.com/used/2021-Hyundai-Santa_Fe-id13636176.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -712,8 +815,10 @@
       "odometer_km": 96930,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Santa Fe Ultimate Calligraphy AWDin Terrace",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe ",
@@ -728,7 +833,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe ",
@@ -743,12 +850,15 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Compass Altitude 4x4in Terrace",
       "vin": "3C4NJDEB0MT547640",
       "stock": "NUMBER",
+      "trim": "Altitude 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/6ae78e34031c.html",
       "source_url": "https://www.terracechrysler.com/used/2021-Jeep-Compass-id14320218.html",
       "dealer_url": "https://www.terracechrysler.com/used/2021-Jeep-Compass-id14320218.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -758,8 +868,10 @@
       "odometer_km": 52003,
       "year": 2021,
       "make": "Jeep",
-      "model": "Compass Altitude 4x4in Terrace",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Compass ",
@@ -774,12 +886,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee Laredo 4x4in Terrace",
       "vin": "1C4RJFAG5MC687113",
       "stock": "NUMBER",
+      "trim": "Laredo 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/465fc493e2ad.html",
       "source_url": "https://www.terracechrysler.com/used/2021-Jeep-Grand_Cherokee-id13746653.html",
       "dealer_url": "https://www.terracechrysler.com/used/2021-Jeep-Grand_Cherokee-id13746653.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -789,8 +904,10 @@
       "odometer_km": 126000,
       "year": 2021,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredo 4x4in Terrace",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -805,7 +922,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Compass ",
@@ -820,7 +939,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -835,12 +956,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 Laramie 4x4 Crew Cab 6'4\" Boxin Terrace",
       "vin": "3C63R3ELXMG565713",
       "stock": "NUMBER",
+      "trim": "Laramie 6'4\" Boxin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/7399905374ba.html",
       "source_url": "https://www.terracechrysler.com/used/2021-RAM-3500-id14040892.html",
       "dealer_url": "https://www.terracechrysler.com/used/2021-RAM-3500-id14040892.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -850,8 +974,10 @@
       "odometer_km": 117730,
       "year": 2021,
       "make": "RAM",
-      "model": "3500 Laramie 4x4 Crew Cab 6'4\" Boxin Terrace",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -866,7 +992,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -881,12 +1009,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica Touring AWDin Terrace",
       "vin": "2C4RC3FG6NR109046",
       "stock": "NUMBER",
+      "trim": "Touring AWDin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3bebfa4dd453.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Chrysler-Pacifica-id12884257.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Chrysler-Pacifica-id12884257.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -896,8 +1027,10 @@
       "odometer_km": 77878,
       "year": 2022,
       "make": "Chrysler",
-      "model": "Pacifica Touring AWDin Terrace",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -912,7 +1045,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -927,12 +1062,15 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Base 4 Door Advanced 4x4in Terrace",
       "vin": "1FMEE5DH2NLB19349",
       "stock": "NUMBER",
+      "trim": "Base 4 Door Advanced 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f89ede6dc7c3.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Ford-Bronco-id14066784.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Ford-Bronco-id14066784.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -942,13 +1080,16 @@
       "odometer_km": 97913,
       "year": 2022,
       "make": "Ford",
-      "model": "Bronco Base 4 Door Advanced 4x4in Terrace",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Base 4 Door 4x4in Terrace",
       "vin": "1FMEE5BP3NLB65508",
       "stock": "NUMBER",
+      "trim": "Base 4 Door 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/bec5219932ea.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Ford-Bronco-id14152903.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Ford-Bronco-id14152903.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -958,8 +1099,10 @@
       "odometer_km": 85047,
       "year": 2022,
       "make": "Ford",
-      "model": "Bronco Base 4 Door 4x4in Terrace",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco ",
@@ -974,7 +1117,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco ",
@@ -989,12 +1134,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee 4xe 4x4in Terrace",
       "vin": "1C4RJYB62N8734720",
       "stock": "NUMBER",
+      "trim": "4xe 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c8c7db1e3c55.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Jeep-Grand_Cherokee_4xe-id14250717.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Jeep-Grand_Cherokee_4xe-id14250717.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1004,13 +1152,16 @@
       "odometer_km": 56624,
       "year": 2022,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe 4x4in Terrace",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYB62N8734720",
       "stock": 14250717,
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/25a985413130.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1019,13 +1170,16 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wagoneer Series III 4x4in Terrace",
       "vin": "1C4SJVDT4NS177590",
       "stock": "NUMBER",
+      "trim": "Series III 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/dc48386e7d00.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Jeep-Wagoneer-id14272647.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Jeep-Wagoneer-id14272647.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1035,8 +1189,10 @@
       "odometer_km": 118063,
       "year": 2022,
       "make": "Jeep",
-      "model": "Wagoneer Series III 4x4in Terrace",
-      "condition": "used"
+      "model": "Wagoneer",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wagoneer ",
@@ -1051,12 +1207,15 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYB62N8734720",
       "stock": 14250717,
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/25a985413130.html",
       "source_url": "https://www.terracechrysler.com/used/2022-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.terracechrysler.com/used/2022-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1065,8 +1224,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wagoneer ",
@@ -1081,12 +1242,15 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet GT Plus AWDin Terrace",
       "vin": "ZACNDFBN2P3A05881",
       "stock": "NUMBER",
+      "trim": "GT Plus AWDin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f317a0957a75.html",
       "source_url": "https://www.terracechrysler.com/used/2023-Dodge-Hornet-id14205240.html",
       "dealer_url": "https://www.terracechrysler.com/used/2023-Dodge-Hornet-id14205240.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1096,8 +1260,10 @@
       "odometer_km": 58202,
       "year": 2023,
       "make": "Dodge",
-      "model": "Hornet GT Plus AWDin Terrace",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet ",
@@ -1112,7 +1278,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet ",
@@ -1127,12 +1295,15 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport Outer Banks 4x4in Terrace",
       "vin": "3FMCR9C64PRD03988",
       "stock": "NUMBER",
+      "trim": "Outer Banks 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/47dfd7b7636f.html",
       "source_url": "https://www.terracechrysler.com/used/2023-Ford-Bronco_Sport-id14250714.html",
       "dealer_url": "https://www.terracechrysler.com/used/2023-Ford-Bronco_Sport-id14250714.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1142,8 +1313,10 @@
       "odometer_km": 27634,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4in Terrace",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -1158,12 +1331,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 XLT 4WD SuperCrew 5.5' Boxin Terrace",
       "vin": "1FTFW1E85PFC79448",
       "stock": "NUMBER",
+      "trim": "XLT 5.5' Boxin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/b621ff977a77.html",
       "source_url": "https://www.terracechrysler.com/used/2023-Ford-F_150-id14250716.html",
       "dealer_url": "https://www.terracechrysler.com/used/2023-Ford-F_150-id14250716.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1173,8 +1349,10 @@
       "odometer_km": 31572,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 XLT 4WD SuperCrew 5.5' Boxin Terrace",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -1189,7 +1367,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -1204,7 +1384,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -1219,13 +1401,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 2500 Power Wagon 4x4 Crew Cab 6'4\" Boxin Terrace",
       "vin": "3C6TR5EJ8PG553512",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Power Wagon 6'4\" Boxin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/893f8af59001.html",
       "source_url": "https://www.terracechrysler.com/used/2023-RAM-2500-id13636174.html",
       "dealer_url": "https://www.terracechrysler.com/used/2023-RAM-2500-id13636174.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1235,8 +1420,10 @@
       "odometer_km": 32720,
       "year": 2023,
       "make": "RAM",
-      "model": "2500 Power Wagon 4x4 Crew Cab 6'4\" Boxin Terrace",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 2500 ",
@@ -1252,7 +1439,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 2500 ",
@@ -1268,13 +1457,16 @@
       "year": 2023,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Big Horn 4x4 Crew Cab 5'7\" Boxin Terrace",
       "vin": "1C6SRFFT4RN114092",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Horn 5'7\" Boxin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/dba289f6f24b.html",
       "source_url": "https://www.terracechrysler.com/used/2024-RAM-1500-id14250715.html",
       "dealer_url": "https://www.terracechrysler.com/used/2024-RAM-1500-id14250715.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1284,8 +1476,10 @@
       "odometer_km": 10503,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Big Horn 4x4 Crew Cab 5'7\" Boxin Terrace",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -1301,7 +1495,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -1317,12 +1513,15 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Cross Hybrid SE AWDin Terrace",
       "vin": "7MUFBABG4RV044488",
       "stock": "NUMBER",
+      "trim": "SE AWDin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/12a587192ddf.html",
       "source_url": "https://www.terracechrysler.com/used/2024-Toyota-Corolla_Cross_Hybrid-id14359499.html",
       "dealer_url": "https://www.terracechrysler.com/used/2024-Toyota-Corolla_Cross_Hybrid-id14359499.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1332,8 +1531,10 @@
       "odometer_km": 8992,
       "year": 2024,
       "make": "Toyota",
-      "model": "Corolla Cross Hybrid SE AWDin Terrace",
-      "condition": "used"
+      "model": "Corolla Cross Hybrid",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Cross Hybrid ",
@@ -1348,12 +1549,15 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Cross Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR Corolla Core AWDin Terrace",
       "vin": "JTNABAAE8RA011622",
       "stock": "NUMBER",
+      "trim": "Core AWDin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/16ab5f6f69fa.html",
       "source_url": "https://www.terracechrysler.com/used/2024-Toyota-GR_Corolla-id14359501.html",
       "dealer_url": "https://www.terracechrysler.com/used/2024-Toyota-GR_Corolla-id14359501.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1363,8 +1567,10 @@
       "odometer_km": 25541,
       "year": 2024,
       "make": "Toyota",
-      "model": "GR Corolla Core AWDin Terrace",
-      "condition": "used"
+      "model": "GR Corolla",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR Corolla ",
@@ -1379,7 +1585,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Cross Hybrid ",
@@ -1394,7 +1602,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Cross Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR Corolla ",
@@ -1409,13 +1619,16 @@
       "year": 2024,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass Altitude 4x4in Terrace",
       "vin": "3C4NJDFN4ST514727",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitude 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/ea1fec79f8c6.html",
       "source_url": "https://www.terracechrysler.com/used/2025-Jeep-Compass-id13474215.html",
       "dealer_url": "https://www.terracechrysler.com/used/2025-Jeep-Compass-id13474215.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1425,8 +1638,10 @@
       "odometer_km": 24299,
       "year": 2025,
       "make": "Jeep",
-      "model": "Compass Altitude 4x4in Terrace",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass ",
@@ -1442,12 +1657,15 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee Laredo 4x4in Terrace",
       "vin": "1C4RJHAG4S8804028",
       "stock": "NUMBER",
+      "trim": "Laredo 4x4in Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/a719260033a4.html",
       "source_url": "https://www.terracechrysler.com/used/2025-Jeep-Grand_Cherokee-id14183842.html",
       "dealer_url": "https://www.terracechrysler.com/used/2025-Jeep-Grand_Cherokee-id14183842.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1457,8 +1675,10 @@
       "odometer_km": 21262,
       "year": 2025,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredo 4x4in Terrace",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee ",
@@ -1473,7 +1693,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass ",
@@ -1489,7 +1711,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Grand Cherokee ",
@@ -1504,7 +1728,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1520,7 +1746,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Terrace",
@@ -1534,11 +1762,14 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Terrace",
       "stock": "NUMBER",
+      "trim": "Hybridin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/faf4a0af22ff.html",
       "source_url": "https://www.terracechrysler.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.terracechrysler.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1547,8 +1778,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Terrace",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1564,7 +1797,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Terrace",
@@ -1578,11 +1813,14 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Terrace",
       "stock": "NUMBER",
+      "trim": "Hybridin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/faf4a0af22ff.html",
       "source_url": "https://www.terracechrysler.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.terracechrysler.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1591,14 +1829,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Terrace",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXTin Terrace",
       "vin": "2C4RC1ZG0TR226957",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SXTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d74c8f1ab852.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Chrysler-Grand_Caravan-id13301057.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Chrysler-Grand_Caravan-id13301057.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1607,8 +1848,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Terrace",
-      "condition": "new"
+      "model": "Grand Caravan",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1624,7 +1867,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -1640,7 +1885,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1656,7 +1903,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -1672,7 +1921,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1688,13 +1939,16 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger R/Tin Terrace",
       "vin": "2C3CDANP4TR256377",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "R/Tin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/783fb5773f55.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Charger-id13718097.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Charger-id13718097.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1703,8 +1957,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Dodge",
-      "model": "Charger R/Tin Terrace",
-      "condition": "new"
+      "model": "Charger",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -1720,12 +1976,15 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango Gt Plusin Terrace",
       "vin": "1C4RDJDGXTC292302",
       "stock": "NUMBER",
+      "trim": "Gt Plusin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9fb97962e0b.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Durango-id14040894.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Durango-id14040894.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1734,14 +1993,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango Gt Plusin Terrace",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GTin Terrace",
       "vin": "1C4RDJDG1TC314445",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "GTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/12f2b2fa0837.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Durango-id14147013.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Durango-id14147013.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1750,14 +2012,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GTin Terrace",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GTin Terrace",
       "vin": "1C4RDJDGXTC314444",
       "stock": "NUMBER",
       "color": "Night Moves (PCQ)",
+      "trim": "GTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2e5e3b1164ef.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Durango-id14205242.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Dodge-Durango-id14205242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1766,8 +2031,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GTin Terrace",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1783,7 +2050,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1799,7 +2068,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1815,7 +2086,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -1831,7 +2104,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1847,7 +2122,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -1862,7 +2139,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Terrace",
@@ -1876,11 +2155,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Terrace",
       "stock": "NUMBER",
+      "trim": "Lin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/e6d50770b000.html",
       "source_url": "https://www.terracechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.terracechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,8 +2171,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Terrace",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Terrace",
@@ -1904,7 +2188,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1920,7 +2206,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1936,7 +2224,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1952,7 +2242,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -1968,7 +2260,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1984,7 +2278,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -1999,7 +2295,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Terrace",
@@ -2013,11 +2311,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Terrace",
       "stock": "NUMBER",
+      "trim": "Lin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/e6d50770b000.html",
       "source_url": "https://www.terracechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.terracechrysler.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2026,8 +2327,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Terrace",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Terrace",
@@ -2041,7 +2344,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2057,13 +2362,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Limitedin Terrace",
       "vin": "3C4PJMB27TT161969",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Limitedin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/52c840f7bd99.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id13389665.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id13389665.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2073,14 +2381,17 @@
       "odometer_km": 2141,
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Limitedin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Limitedin Terrace",
       "vin": "3C4PJMB28TT206241",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limitedin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ca47b9b9745d.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id13595287.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id13595287.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2089,13 +2400,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Limitedin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee 85th Annivin Terrace",
       "vin": "3C4PJMB27TT257374",
       "stock": "NUMBER",
+      "trim": "85th Annivin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5da22dbbcc92.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14059211.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14059211.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2104,13 +2418,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee 85th Annivin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Overlandin Terrace",
       "vin": "3C4PJMC22TT280995",
       "stock": "NUMBER",
+      "trim": "Overlandin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/cd5cf304c444.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14147015.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14147015.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2119,13 +2436,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Overlandin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB22TT268671",
       "stock": "NUMBER",
+      "trim": "Laredoin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce2f9db2263.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14147016.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14147016.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2134,13 +2454,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB24TT274312",
       "stock": "NUMBER",
+      "trim": "Laredoin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ec0045662b9e.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14152904.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14152904.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2149,13 +2472,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Overlandin Terrace",
       "vin": "3C4PJMC29TT264342",
       "stock": "NUMBER",
+      "trim": "Overlandin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d76812cda5eb.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14171947.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14171947.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2164,13 +2490,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Overlandin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB2XTT269051",
       "stock": "NUMBER",
+      "trim": "Laredoin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a4a43d766540.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14171948.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14171948.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2179,13 +2508,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee 85th Annivin Terrace",
       "vin": "3C4PJMB29TT257375",
       "stock": "NUMBER",
+      "trim": "85th Annivin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce580247b48.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14292451.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14292451.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2194,14 +2526,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee 85th Annivin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB21TT287082",
       "stock": "NUMBER",
       "color": "41 (PJ5)",
+      "trim": "Laredoin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ecd96d10d268.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14359496.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14359496.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2210,13 +2545,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB23TT287083",
       "stock": "NUMBER",
+      "trim": "Laredoin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/c0be66d24d8e.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14371104.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Cherokee-id14371104.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2225,8 +2563,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Terrace",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2242,12 +2582,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Trailhawkin Terrace",
       "vin": "3C4NJDDN9TT208899",
       "stock": "NUMBER",
+      "trim": "Trailhawkin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/221a87692248.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13322266.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13322266.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2256,14 +2599,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Trailhawkin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN1TT182950",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/8248e82d93e5.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13514014.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13514014.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2272,14 +2618,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN5TT182952",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/28e4303131cf.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13563284.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13563284.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2288,14 +2637,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN0TT202511",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/f6fdef28e436.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13568105.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13568105.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2304,13 +2656,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN9TT247804",
       "stock": "NUMBER",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/7f9d549b0e51.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13850716.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13850716.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2319,14 +2674,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN6TT261773",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1a5295c5dadb.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13911236.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id13911236.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2335,14 +2693,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN7TT281773",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/25bb49bc6f01.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id14078506.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id14078506.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2351,13 +2712,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN5TT281772",
       "stock": "NUMBER",
+      "trim": "Northin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/4173341fd53c.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id14248211.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Compass-id14248211.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2366,8 +2730,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Terrace",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2383,13 +2749,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Sport Sin Terrace",
       "vin": "1C6PJTAG7TL156040",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport Sin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/98c53fbffd29.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Gladiator-id13184631.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Gladiator-id13184631.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2398,8 +2767,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Sport Sin Terrace",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2415,7 +2786,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2431,7 +2804,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -2446,13 +2821,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willysin Terrace",
       "vin": "1C4PJXDGXTW172209",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Willysin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/fea80b6019db.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13033536.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13033536.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2461,14 +2839,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Willysin Terrace",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willysin Terrace",
       "vin": "1C4PJXDN8TW205352",
       "stock": "NUMBER",
       "color": "MOJITO",
+      "trim": "Willysin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/4fd72ad1fd04.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13254344.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13254344.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2477,14 +2858,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Willysin Terrace",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willysin Terrace",
       "vin": "1C4PJXDGXTW214443",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Willysin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/cf95eaf8d553.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13260889.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13260889.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2493,14 +2877,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Willysin Terrace",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sportin Terrace",
       "vin": "1C4PJXAN3TW280092",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sportin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/e450ee3a8725.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13850719.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13850719.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2509,13 +2896,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sportin Terrace",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler 85th Annivin Terrace",
       "vin": "1C4PJXDGXTW315787",
       "stock": "NUMBER",
+      "trim": "85th Annivin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/65fe40c39c78.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13973809.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-Jeep-Wrangler-id13973809.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2524,8 +2914,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler 85th Annivin Terrace",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2541,7 +2933,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2557,7 +2951,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2573,7 +2969,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2589,7 +2987,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2605,13 +3005,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Terrace",
       "vin": "3C6SRFGP1T4152673",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Warlockin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/bb35afd464d1.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id13911238.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id13911238.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2620,14 +3023,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Terrace",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Expressin Terrace",
       "vin": "3C6SRFGP0T4174535",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Expressin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/06d8fdc92dce.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id13911240.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id13911240.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2636,14 +3042,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Expressin Terrace",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Terrace",
       "vin": "3C6SRFGP3T4161844",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Warlockin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/778cf5948782.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id13973807.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id13973807.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2652,13 +3061,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Terrace",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Terrace",
       "vin": "1C6SRFGP7TN441515",
       "stock": "NUMBER",
+      "trim": "Warlockin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/6b11b17c4f90.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id14243043.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id14243043.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2667,14 +3079,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Terrace",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Expressin Terrace",
       "vin": "3C6SRFGP0T4169268",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Expressin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3f7f2ce0ca6c.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id14292448.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2026-RAM-1500-id14292448.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2683,8 +3098,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Expressin Terrace",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2700,7 +3117,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2716,7 +3135,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Terrace",
@@ -2730,7 +3151,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Terrace",
@@ -2744,7 +3167,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Terrace",
@@ -2758,7 +3183,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2773,7 +3200,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Terrace",
@@ -2787,7 +3216,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2802,12 +3233,15 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Selectin Terrace",
       "vin": "2C4RC3BG9VR585040",
       "stock": "NUMBER",
+      "trim": "Selectin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3671f434cd7f.html",
       "source_url": "https://www.terracechrysler.com/new/inventory/2027-Chrysler-Pacifica-id14205241.html",
       "dealer_url": "https://www.terracechrysler.com/new/inventory/2027-Chrysler-Pacifica-id14205241.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2816,8 +3250,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Selectin Terrace",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2832,7 +3268,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Terrace",
@@ -2846,7 +3284,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Terrace",
@@ -2860,7 +3300,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Terrace",
@@ -2874,7 +3316,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Terrace",
@@ -2888,7 +3332,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Terrace",
@@ -2902,7 +3348,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Terrace",
@@ -2916,7 +3364,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Terrace",
@@ -2930,7 +3380,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee ",
@@ -2946,11 +3398,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Terrace",
       "stock": "NUMBER",
+      "trim": "Lin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/a4e69f103cef.html",
       "source_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2959,8 +3414,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Terrace",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Terrace",
@@ -2974,11 +3431,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Terrace",
       "stock": "NUMBER",
+      "trim": "Lin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/1ca4529b12d2.html",
       "source_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2987,8 +3447,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Terrace",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Terrace",
@@ -3002,7 +3464,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Terrace",
@@ -3016,7 +3480,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Terrace",
@@ -3030,7 +3496,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Terrace",
@@ -3044,7 +3512,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee ",
@@ -3060,11 +3530,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Terrace",
       "stock": "NUMBER",
+      "trim": "Lin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a4e69f103cef.html",
       "source_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3073,8 +3546,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Terrace",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Terrace",
@@ -3088,11 +3563,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Terrace",
       "stock": "NUMBER",
+      "trim": "Lin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1ca4529b12d2.html",
       "source_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.terracechrysler.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3101,8 +3579,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Terrace",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Terrace",
@@ -3116,7 +3596,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee ",
@@ -3132,7 +3614,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3148,7 +3632,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3164,7 +3650,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3180,7 +3668,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Terrace",
@@ -3194,7 +3684,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500in Terrace",
@@ -3208,7 +3700,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "3500in Terrace",
-      "condition": "used"
+      "condition": "used",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Terrace",
@@ -3222,7 +3716,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 3500in Terrace",
@@ -3236,7 +3732,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "3500in Terrace",
-      "condition": "new"
+      "condition": "new",
+      "city": "Terrace",
+      "province": "BC"
     }
   ]
 }
