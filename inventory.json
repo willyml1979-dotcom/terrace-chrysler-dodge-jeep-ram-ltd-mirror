@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-26T00:08:47",
+  "generated_at": "2026-10-26T00:31:37",
   "vehicle_count": 178,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1808,7 +1808,7 @@
       "make": "Jeep",
       "model": "Gladiatorin Terrace",
       "condition": "new",
-      "price": 54990.0,
+      "price": 53490.0,
       "price_currency": "CAD"
     },
     {
