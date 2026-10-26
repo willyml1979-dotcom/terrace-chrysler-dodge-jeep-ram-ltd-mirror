@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-25T14:52:56",
+  "generated_at": "2026-10-26T00:08:47",
   "vehicle_count": 178,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -61,7 +61,7 @@
       "make": "Honda",
       "model": "Crosstour Ex-Lin Terrace",
       "condition": "used",
-      "price": 17990.0,
+      "price": 15990.0,
       "price_currency": "CAD"
     },
     {
@@ -72,7 +72,7 @@
       "make": "Honda",
       "model": "Crosstour",
       "condition": "used",
-      "price": 17990.0,
+      "price": 15990.0,
       "price_currency": "CAD"
     },
     {
