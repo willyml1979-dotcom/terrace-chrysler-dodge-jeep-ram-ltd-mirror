@@ -1,10 +1,114 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-26T08:36:10",
+  "generated_at": "2026-10-26T08:54:47",
   "vehicle_count": 178,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Dodge Charger R/Tin Terrace",
+      "vin": "2C3CDANP4TR256377",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/783fb5773f55.html",
+      "condition": "new",
+      "price": 63885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango Gt Plusin Terrace",
+      "vin": "1C4RDJDGXTC292302",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9fb97962e0b.html",
+      "condition": "new",
+      "price": 67970.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango GTin Terrace",
+      "vin": "1C4RDJDG1TC314445",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/12f2b2fa0837.html",
+      "condition": "new",
+      "price": 59430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango GTin Terrace",
+      "vin": "1C4RDJDGXTC314444",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2e5e3b1164ef.html",
+      "condition": "new",
+      "price": 59330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limitedin Terrace",
+      "vin": "3C4PJMB27TT161969",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/52c840f7bd99.html",
+      "condition": "new",
+      "price": 55575.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limitedin Terrace",
+      "vin": "3C4PJMB28TT206241",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ca47b9b9745d.html",
+      "condition": "new",
+      "price": 59075.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Annivin Terrace",
+      "vin": "3C4PJMB27TT257374",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5da22dbbcc92.html",
+      "condition": "new",
+      "price": 58375.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Overlandin Terrace",
+      "vin": "3C4PJMC22TT280995",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/cd5cf304c444.html",
+      "condition": "new",
+      "price": 60975.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
+      "vin": "3C4PJMB22TT268671",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce2f9db2263.html",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
+      "vin": "3C4PJMB24TT274312",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ec0045662b9e.html",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Overlandin Terrace",
+      "vin": "3C4PJMC29TT264342",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d76812cda5eb.html",
+      "condition": "new",
+      "price": 60975.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
+      "vin": "3C4PJMB2XTT269051",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a4a43d766540.html",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Annivin Terrace",
+      "vin": "3C4PJMB29TT257375",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce580247b48.html",
+      "condition": "new",
+      "price": 57880.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Jeep Cherokee Limited Altitude 4x4in Terrace",
       "vin": "3C4PJMB24TT294091",
@@ -1140,17 +1244,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Charger R/Tin Terrace",
-      "vin": "2C3CDANP4TR256377",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/783fb5773f55.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "new",
-      "price": 63885.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Dodge Charger ",
       "vin": "2C3CDANP4TR256377",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/56f7e9be7aed.html",
@@ -1159,39 +1252,6 @@
       "model": "Charger",
       "condition": "new",
       "price": 63885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango Gt Plusin Terrace",
-      "vin": "1C4RDJDGXTC292302",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9fb97962e0b.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 67970.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GTin Terrace",
-      "vin": "1C4RDJDG1TC314445",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/12f2b2fa0837.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 59430.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango GTin Terrace",
-      "vin": "1C4RDJDGXTC314444",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2e5e3b1164ef.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 59330.0,
       "price_currency": "CAD"
     },
     {
@@ -1299,105 +1359,6 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 47080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Limitedin Terrace",
-      "vin": "3C4PJMB27TT161969",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/52c840f7bd99.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 55575.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Limitedin Terrace",
-      "vin": "3C4PJMB28TT206241",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ca47b9b9745d.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 59075.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee 85th Annivin Terrace",
-      "vin": "3C4PJMB27TT257374",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5da22dbbcc92.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 58375.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Overlandin Terrace",
-      "vin": "3C4PJMC22TT280995",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/cd5cf304c444.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 60975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredoin Terrace",
-      "vin": "3C4PJMB22TT268671",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce2f9db2263.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredoin Terrace",
-      "vin": "3C4PJMB24TT274312",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ec0045662b9e.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Overlandin Terrace",
-      "vin": "3C4PJMC29TT264342",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d76812cda5eb.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 60975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredoin Terrace",
-      "vin": "3C4PJMB2XTT269051",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a4a43d766540.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee 85th Annivin Terrace",
-      "vin": "3C4PJMB29TT257375",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce580247b48.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 57880.0,
       "price_currency": "CAD"
     },
     {
