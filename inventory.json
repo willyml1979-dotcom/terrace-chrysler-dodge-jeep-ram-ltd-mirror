@@ -1,182 +1,112 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-10-26T08:54:47",
-  "vehicle_count": 178,
+  "generated_at": "2026-11-17T10:14:44",
+  "vehicle_count": 174,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Dodge Charger R/Tin Terrace",
-      "vin": "2C3CDANP4TR256377",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/783fb5773f55.html",
-      "condition": "new",
-      "price": 63885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Dodge Durango Gt Plusin Terrace",
-      "vin": "1C4RDJDGXTC292302",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9fb97962e0b.html",
-      "condition": "new",
-      "price": 67970.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Dodge Durango GTin Terrace",
-      "vin": "1C4RDJDG1TC314445",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/12f2b2fa0837.html",
-      "condition": "new",
-      "price": 59430.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Dodge Durango GTin Terrace",
-      "vin": "1C4RDJDGXTC314444",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2e5e3b1164ef.html",
-      "condition": "new",
-      "price": 59330.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Limitedin Terrace",
-      "vin": "3C4PJMB27TT161969",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/52c840f7bd99.html",
-      "condition": "new",
-      "price": 55575.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Limitedin Terrace",
-      "vin": "3C4PJMB28TT206241",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ca47b9b9745d.html",
-      "condition": "new",
-      "price": 59075.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee 85th Annivin Terrace",
-      "vin": "3C4PJMB27TT257374",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5da22dbbcc92.html",
-      "condition": "new",
-      "price": 58375.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Overlandin Terrace",
-      "vin": "3C4PJMC22TT280995",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/cd5cf304c444.html",
-      "condition": "new",
-      "price": 60975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
-      "vin": "3C4PJMB22TT268671",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce2f9db2263.html",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
-      "vin": "3C4PJMB24TT274312",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ec0045662b9e.html",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Overlandin Terrace",
-      "vin": "3C4PJMC29TT264342",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d76812cda5eb.html",
-      "condition": "new",
-      "price": 60975.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
-      "vin": "3C4PJMB2XTT269051",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a4a43d766540.html",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee 85th Annivin Terrace",
-      "vin": "3C4PJMB29TT257375",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce580247b48.html",
-      "condition": "new",
-      "price": 57880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Cherokee Limited Altitude 4x4in Terrace",
-      "vin": "3C4PJMB24TT294091",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/08e5e005c77b.html",
-      "condition": "new",
-      "price": 58070.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Warlockin Terrace",
-      "vin": "1C6SRFGP7TN441515",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/6b11b17c4f90.html",
-      "condition": "new",
-      "price": 67820.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Expressin Terrace",
-      "vin": "3C6SRFGP0T4169268",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3f7f2ce0ca6c.html",
-      "condition": "new",
-      "price": 66180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Selectin Terrace",
-      "vin": "2C4RC3BG9VR585040",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3671f434cd7f.html",
-      "condition": "new",
-      "price": 64470.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Selectin Terrace",
-      "vin": "2C4RC3BG3VR614452",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/16f439a08713.html",
-      "condition": "new",
-      "price": 64370.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Selectin Terrace",
-      "vin": "2C4RC3BG9VR614262",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a012b2bad248.html",
-      "condition": "new",
-      "price": 64370.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda Crosstour Ex-Lin Terrace",
-      "vin": "5J6TF2H52EL800337",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/11b92ad29f81.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Crosstour Ex-Lin Terrace",
+      "name": "Jeep Grand Cherokee 2021 for salein Terrace",
+      "vin": "1C4RJFAG5MC687113",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/bfd9de3d3cdd.html",
       "condition": "used",
-      "price": 15990.0,
+      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Honda Crosstour ",
-      "vin": "5J6TF2H52EL800337",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/13e5ccdf0a34.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Crosstour",
+      "name": "RAM 3500 2021 for salein Terrace",
+      "vin": "3C63R3ELXMG565713",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/b4a5179c53d6.html",
       "condition": "used",
-      "price": 15990.0,
+      "price": 63990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2021 for salein Terrace",
+      "vin": "5TFDZ5BN5MX058745",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/49db74f1af9e.html",
+      "condition": "used",
+      "price": 44990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2022 for salein Terrace",
+      "vin": "2C4RC3FG6NR109046",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3a0ec30db4d1.html",
+      "condition": "used",
+      "price": 35495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2022 for salein Terrace",
+      "vin": "1FMEE5DH2NLB19349",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/7e9a2a056802.html",
+      "condition": "used",
+      "price": 38990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wagoneer 2022 for salein Terrace",
+      "vin": "1C4SJVDT4NS177590",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3db61ad84e91.html",
+      "condition": "used",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2022 for salein Terrace",
+      "vin": "1C6RR7LT5NS120603",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/2d23c8dfb777.html",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Cross 2023 for salein Terrace",
+      "vin": "7MUFBABG3PV004075",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/88c5f72b3926.html",
+      "condition": "used",
+      "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2024 for salein Terrace",
+      "vin": "1C6SRFFT4RN114092",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/6e51352b1c5e.html",
+      "condition": "used",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Cross Hybrid 2024 for salein Terrace",
+      "vin": "7MUFBABG4RV044488",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/e84f2b039c01.html",
+      "condition": "used",
+      "price": 40990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota GR Corolla 2024 for salein Terrace",
+      "vin": "JTNABAAE8RA011622",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/ea16e068ea40.html",
+      "condition": "used",
+      "price": 44990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2025 for salein Terrace",
+      "vin": "1FMWK8GC7SGA70605",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/2e2ee4b713a0.html",
+      "condition": "used",
+      "price": 57990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Hybrid 2025 for salein Terrace",
+      "vin": "2HGFE4F85SH018087",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/233ab48e1f40.html",
+      "condition": "used",
+      "price": 33990.0,
       "price_currency": "CAD"
     },
     {
@@ -232,28 +162,6 @@
       "model": "RAV4",
       "condition": "used",
       "price": 17990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet Silverado 1500 Crew Cab Short Box 4-Wheel Drive LT w/1LTin Terrace",
-      "vin": "3GCUKREC1GG163720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/032396982339.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive LT w/1LTin Terrace",
-      "condition": "used",
-      "price": 21990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet Silverado 1500 ",
-      "vin": "3GCUKREC1GG163720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f2ff74c13415.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 21990.0,
       "price_currency": "CAD"
     },
     {
@@ -587,28 +495,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Jeep Gladiator Rubicon 4x4in Terrace",
-      "vin": "1C6JJTBG1LL215085",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/422c3bb1e6f2.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Jeep Gladiator ",
-      "vin": "1C6JJTBG1LL215085",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f847ab2d16a8.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Jeep Wrangler Sahara 4x4in Terrace",
       "vin": "1C4HJXEG9LW212685",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f7ffb8e3338f.html",
@@ -686,28 +572,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Santa Fe Ultimate Calligraphy AWDin Terrace",
-      "vin": "5NMS5DAL8MH326919",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/0cb1c13301c6.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Santa Fe ",
-      "vin": "5NMS5DAL8MH326919",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/fd2a8b3f4c9f.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Hyundai Santa Fe ",
       "vin": "5NMS5DAL8MH326919",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/fd2a8b3f4c9f.html",
@@ -722,17 +586,6 @@
       "name": "2021 Jeep Grand Cherokee Laredo 4x4in Terrace",
       "vin": "1C4RJFAG5MC687113",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/465fc493e2ad.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFAG5MC687113",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/bfd9de3d3cdd.html",
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
@@ -776,17 +629,6 @@
     {
       "name": "2021 RAM 3500 ",
       "vin": "3C63R3ELXMG565713",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/b4a5179c53d6.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 63990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 3500 ",
-      "vin": "3C63R3ELXMG565713",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/b4a5179c53d6.html",
       "year": 2021,
       "make": "RAM",
@@ -796,20 +638,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chrysler Pacifica Touring AWDin Terrace",
-      "vin": "2C4RC3FG6NR109046",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3bebfa4dd453.html",
-      "year": 2022,
-      "make": "Chrysler",
-      "model": "Pacifica",
+      "name": "2021 Toyota Tacoma 4x4 Double Cab Autoin Terrace",
+      "vin": "5TFDZ5BN5MX058745",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/6248dfc5f51c.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Tacoma",
       "condition": "used",
-      "price": 35495.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chrysler Pacifica ",
+      "name": "2022 Chrysler Pacifica Touring AWDin Terrace",
       "vin": "2C4RC3FG6NR109046",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3a0ec30db4d1.html",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3bebfa4dd453.html",
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
@@ -864,17 +706,6 @@
     {
       "name": "2022 Ford Bronco ",
       "vin": "1FMEE5DH2NLB19349",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/7e9a2a056802.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMEE5DH2NLB19349",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/7e9a2a056802.html",
       "year": 2022,
       "make": "Ford",
@@ -884,42 +715,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Jeep Grand Cherokee 4xe 4x4in Terrace",
-      "vin": "1C4RJYB62N8734720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c8c7db1e3c55.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Grand Cherokee 4xe ",
-      "vin": "1C4RJYB62N8734720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/25a985413130.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Jeep Wagoneer Series III 4x4in Terrace",
       "vin": "1C4SJVDT4NS177590",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/dc48386e7d00.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wagoneer",
-      "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Wagoneer ",
-      "vin": "1C4SJVDT4NS177590",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3db61ad84e91.html",
       "year": 2022,
       "make": "Jeep",
       "model": "Wagoneer",
@@ -950,6 +748,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 RAM 1500 Classic Warlock 4x4 Crew Cab 5'7\" Boxin Terrace",
+      "vin": "1C6RR7LT5NS120603",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/280c4d7bf26a.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 GMC Sierra 2500 HD 4WD Crew Cab Long Box SLEin Terrace",
       "vin": "1GT49ME74PF147109",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/83ea6409f0c6.html",
@@ -972,28 +781,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Cherokee Altitude 4x4in Terrace",
-      "vin": "1C4PJMMB2PD103454",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/457d0499313f.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 31990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Cherokee ",
-      "vin": "1C4PJMMB2PD103454",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/510acb2f17fc.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 31990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 RAM 2500 ",
       "vin": "3C6TR5EJ8PG553512",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/898a53ce703c.html",
@@ -1005,42 +792,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma 4x4 Double Cab Auto SBin Terrace",
-      "vin": "3TYCZ5AN2PT173489",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/a295e6dbcb56.html",
+      "name": "2023 Toyota Corolla Cross Hybrid Sein Terrace",
+      "vin": "7MUFBABG3PV004075",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c62b23fb2680.html",
       "year": 2023,
       "make": "Toyota",
-      "model": "Tacoma",
+      "model": "Corolla Cross Hybrid",
       "condition": "used",
-      "price": 47990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Tacoma ",
-      "vin": "3TYCZ5AN2PT173489",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/922d289c634f.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 47990.0,
+      "price": 35990.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 RAM 1500 Big Horn 4x4 Crew Cab 5'7\" Boxin Terrace",
       "vin": "1C6SRFFT4RN114092",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/dba289f6f24b.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 ",
-      "vin": "1C6SRFFT4RN114092",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/6e51352b1c5e.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500",
@@ -1071,17 +836,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Corolla Cross Hybrid ",
-      "vin": "7MUFBABG4RV044488",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/e84f2b039c01.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Corolla Cross Hybrid",
-      "condition": "used",
-      "price": 40990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Toyota GR Corolla Core AWDin Terrace",
       "vin": "JTNABAAE8RA011622",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/16ab5f6f69fa.html",
@@ -1089,18 +843,7 @@
       "make": "Toyota",
       "model": "GR Corolla",
       "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota GR Corolla ",
-      "vin": "JTNABAAE8RA011622",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/ea16e068ea40.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "GR Corolla",
-      "condition": "used",
-      "price": 45990.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
@@ -1123,6 +866,28 @@
       "model": "GR Corolla",
       "condition": "new",
       "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Explorer ST 4WDin Terrace",
+      "vin": "1FMWK8GC7SGA70605",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/09d3c2359e1c.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 57990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Honda Civic Hybrid Sport Touringin Terrace",
+      "vin": "2HGFE4F85SH018087",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/2c1a6dfbcb9c.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "used",
+      "price": 33990.0,
       "price_currency": "CAD"
     },
     {
@@ -1244,6 +1009,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Dodge Charger R/Tin Terrace",
+      "vin": "2C3CDANP4TR256377",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/783fb5773f55.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Charger",
+      "condition": "new",
+      "price": 63885.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Dodge Charger ",
       "vin": "2C3CDANP4TR256377",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/56f7e9be7aed.html",
@@ -1252,6 +1028,39 @@
       "model": "Charger",
       "condition": "new",
       "price": 63885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango Gt Plusin Terrace",
+      "vin": "1C4RDJDGXTC292302",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9fb97962e0b.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 67970.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango GTin Terrace",
+      "vin": "1C4RDJDG1TC314445",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/12f2b2fa0837.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 59430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango GTin Terrace",
+      "vin": "1C4RDJDGXTC314444",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2e5e3b1164ef.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 59330.0,
       "price_currency": "CAD"
     },
     {
@@ -1362,6 +1171,105 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Cherokee Limitedin Terrace",
+      "vin": "3C4PJMB27TT161969",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/52c840f7bd99.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 55575.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limitedin Terrace",
+      "vin": "3C4PJMB28TT206241",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ca47b9b9745d.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 59075.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Annivin Terrace",
+      "vin": "3C4PJMB27TT257374",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5da22dbbcc92.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 58375.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Overlandin Terrace",
+      "vin": "3C4PJMC22TT280995",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/cd5cf304c444.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 60975.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
+      "vin": "3C4PJMB22TT268671",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce2f9db2263.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
+      "vin": "3C4PJMB24TT274312",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ec0045662b9e.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Overlandin Terrace",
+      "vin": "3C4PJMC29TT264342",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d76812cda5eb.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 60975.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
+      "vin": "3C4PJMB2XTT269051",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a4a43d766540.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Annivin Terrace",
+      "vin": "3C4PJMB29TT257375",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/9ce580247b48.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 57880.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB21TT287082",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ecd96d10d268.html",
@@ -1381,6 +1289,17 @@
       "model": "Cherokee",
       "condition": "new",
       "price": 48775.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limited Altitude 4x4in Terrace",
+      "vin": "3C4PJMB24TT294091",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/08e5e005c77b.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 58070.0,
       "price_currency": "CAD"
     },
     {
@@ -1659,6 +1578,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 RAM 1500 Warlockin Terrace",
+      "vin": "1C6SRFGP7TN441515",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/6b11b17c4f90.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 67820.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Expressin Terrace",
+      "vin": "3C6SRFGP0T4169268",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3f7f2ce0ca6c.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 66180.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 RAM 1500 ",
       "vin": "3C6SRFGP0T4169268",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/21370007b161.html",
@@ -1709,6 +1650,39 @@
       "model": "Pacifica",
       "condition": "new",
       "price": 64470.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Terrace",
+      "vin": "2C4RC3BG9VR585040",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3671f434cd7f.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 64470.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Terrace",
+      "vin": "2C4RC3BG3VR614452",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/16f439a08713.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 64370.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Terrace",
+      "vin": "2C4RC3BG9VR614262",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a012b2bad248.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 64370.0,
       "price_currency": "CAD"
     },
     {
