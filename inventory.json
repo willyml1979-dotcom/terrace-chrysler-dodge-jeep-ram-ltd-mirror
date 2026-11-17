@@ -1,7 +1,7 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-17T10:14:44",
-  "vehicle_count": 174,
+  "generated_at": "2026-11-17T10:52:52",
+  "vehicle_count": 175,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -107,6 +107,38 @@
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/233ab48e1f40.html",
       "condition": "used",
       "price": 33990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Terrace",
+      "vin": "3C4PJMB22TT268671",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/111e22c04bba.html",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2026 for salein Terrace",
+      "vin": "3C4NJDBN7TT281773",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/c4ba548631b2.html",
+      "condition": "new",
+      "price": 39190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2026 for salein Terrace",
+      "vin": "1C6PJTAG7TL156040",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2f17503da513.html",
+      "condition": "new",
+      "price": 54880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2026 for salein Terrace",
+      "vin": "1C4RJHAR5TC278055",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/15abe2cc2858.html",
+      "condition": "new",
+      "price": 70680.0,
       "price_currency": "CAD"
     },
     {
@@ -1270,7 +1302,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Terrace",
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB21TT287082",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/ecd96d10d268.html",
       "year": 2026,
@@ -1281,7 +1313,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Terrace",
+      "name": "New 2026 Jeep Cherokee Laredoin Terrace",
       "vin": "3C4PJMB23TT287083",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/c0be66d24d8e.html",
       "year": 2026,
@@ -1303,18 +1335,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMB22TT268671",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/111e22c04bba.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Trailhawkin Terrace",
+      "name": "New 2026 Jeep Compass Trailhawkin Terrace",
       "vin": "3C4NJDDN9TT208899",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/221a87692248.html",
       "year": 2026,
@@ -1325,7 +1346,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Terrace",
+      "name": "New 2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN1TT182950",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/8248e82d93e5.html",
       "year": 2026,
@@ -1336,7 +1357,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Terrace",
+      "name": "New 2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN5TT182952",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/28e4303131cf.html",
       "year": 2026,
@@ -1347,7 +1368,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Terrace",
+      "name": "New 2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN0TT202511",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/f6fdef28e436.html",
       "year": 2026,
@@ -1369,7 +1390,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Terrace",
+      "name": "New 2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN6TT261773",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1a5295c5dadb.html",
       "year": 2026,
@@ -1380,7 +1401,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Terrace",
+      "name": "New 2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN7TT281773",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/25bb49bc6f01.html",
       "year": 2026,
@@ -1391,7 +1412,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Terrace",
+      "name": "New 2026 Jeep Compass Northin Terrace",
       "vin": "3C4NJDBN5TT281772",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/4173341fd53c.html",
       "year": 2026,
@@ -1402,18 +1423,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDBN7TT281773",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/c4ba548631b2.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 39190.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Sport Sin Terrace",
+      "name": "New 2026 Jeep Gladiator Sport Sin Terrace",
       "vin": "1C6PJTAG7TL156040",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/98c53fbffd29.html",
       "year": 2026,
@@ -1421,28 +1431,6 @@
       "model": "Gladiator",
       "condition": "new",
       "price": 54880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator ",
-      "vin": "1C6PJTAG7TL156040",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2f17503da513.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 54880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAR5TC278055",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/15abe2cc2858.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 70680.0,
       "price_currency": "CAD"
     },
     {
@@ -1829,6 +1817,17 @@
       "model": "1500",
       "condition": "new",
       "price": 77060.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Warlockin Terrace",
+      "vin": "3C6RRFGG8V4514418",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/2b52d48315e3.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 67475.0,
       "price_currency": "CAD"
     },
     {
