@@ -1,7 +1,7 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T10:29:14",
-  "vehicle_count": 174,
+  "generated_at": "2026-11-18T10:50:29",
+  "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -286,6 +286,70 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chrysler Pacifica 2027 for salein Terrace",
+      "vin": "2C4RC3BG3VR614452",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a154842e1752.html",
+      "condition": "new",
+      "price": 64370.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2027 for salein Terrace",
+      "vin": "1C4RJHARXVC555897",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9e8526a3ef3.html",
+      "condition": "new",
+      "price": 71475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2027 for salein Terrace",
+      "vin": "3C6RRFGG8V4514418",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5305b687cd7b.html",
+      "condition": "new",
+      "price": 67475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2016 for salein Terrace",
+      "vin": "2C4RDGBG0GR223685",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/366d2831469f.html",
+      "condition": "new",
+      "price": 16990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2017 for salein Terrace",
+      "vin": "1C6RR7YT1HS501460",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/f0b72c878b2e.html",
+      "condition": "new",
+      "price": 29990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2018 for salein Terrace",
+      "vin": "1C4BJWDG7JL914603",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/b60ac97adff3.html",
+      "condition": "new",
+      "price": 19490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2019 for salein Terrace",
+      "vin": "1C4PJMBX7KD468087",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/8acc1c44977c.html",
+      "condition": "new",
+      "price": 24990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2019 for salein Terrace",
+      "vin": "3C63RRJL8KG523899",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1af2cc65b2cc.html",
+      "condition": "new",
+      "price": 54990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 RAM 1500 4WD Quad Cab 6.4 Ft Box SLTin Terrace",
       "vin": "1C6RR7GMXES294086",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3b8e0ea00c27.html",
@@ -319,17 +383,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Chevrolet Silverado 1500 ",
-      "vin": "3GCUKREC1GG163720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/f2ff74c13415.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 21990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Dodge Grand Caravan 4dr Wgn Canada Value Packagein Terrace",
       "vin": "2C4RDGBG0GR223685",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c676b403e466.html",
@@ -337,17 +390,6 @@
       "make": "Dodge",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG0GR223685",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/366d2831469f.html",
-      "year": 2016,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "new",
       "price": 16990.0,
       "price_currency": "CAD"
     },
@@ -385,17 +427,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 GMC Sierra 1500 ",
-      "vin": "3GTU2MEC4HG116301",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1465c60041d8.html",
-      "year": 2017,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 21990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 RAM 1500 4WD Crew Cab 5.7 Ft Box Rebelin Terrace",
       "vin": "1C6RR7YT1HS501460",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/be2d84f4ef7f.html",
@@ -414,17 +445,6 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 29990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 RAM 1500 ",
-      "vin": "1C6RR7YT1HS501460",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/f0b72c878b2e.html",
-      "year": 2017,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
       "price": 29990.0,
       "price_currency": "CAD"
     },
@@ -473,17 +493,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Wrangler ",
-      "vin": "1C4BJWDG7JL914603",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/b60ac97adff3.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Jeep Cherokee Trailhawk Elite 4x4in Terrace",
       "vin": "1C4PJMBX7KD468087",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c2286f213f3a.html",
@@ -506,17 +515,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Cherokee ",
-      "vin": "1C4PJMBX7KD468087",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/8acc1c44977c.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 RAM 2500 Power Wagon 4x4 Crew Cab 6'4\" Boxin Terrace",
       "vin": "3C6TR5EJ7KG518226",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/60e69a90c156.html",
@@ -535,28 +533,6 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 3500 ",
-      "vin": "3C63RRJL8KG523899",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/006ba694644c.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 3500 ",
-      "vin": "3C63RRJL8KG523899",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1af2cc65b2cc.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
       "price": 54990.0,
       "price_currency": "CAD"
     },
@@ -1609,17 +1585,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica ",
-      "vin": "2C4RC3BG3VR614452",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/a154842e1752.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 64370.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Dodge Chargerin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/b6e0ea2ed5ac.html",
       "year": 2027,
@@ -1722,17 +1687,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Grand Cherokee ",
-      "vin": "1C4RJHARXVC555897",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/d9e8526a3ef3.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 71475.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Jeep Grand Cherokee L ",
       "vin": "1C4RJKAR8V8163677",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/362ca47f7382.html",
@@ -1763,17 +1717,6 @@
       "model": "1500",
       "condition": "new",
       "price": 67475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 ",
-      "vin": "3C6RRFGG6V4506320",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/5305b687cd7b.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 72870.0,
       "price_currency": "CAD"
     },
     {
