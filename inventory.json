@@ -1,16 +1,48 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T01:48:52",
+  "generated_at": "2026-11-18T10:29:14",
   "vehicle_count": 174,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "RAM 1500 2014 for salein Terrace",
+      "vin": "1C6RR7GMXES294086",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/d8d4d3fd4af8.html",
+      "condition": "used",
+      "price": 14990.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Toyota RAV4 2014 for salein Terrace",
       "vin": "2T3BFREV5EW135607",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3b562042eb6a.html",
       "condition": "used",
       "price": 17990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2016 for salein Terrace",
+      "vin": "2C4RDGBG0GR223685",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/366d2831469f.html",
+      "condition": "used",
+      "price": 16990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2016 for salein Terrace",
+      "vin": "2GKFLUEKXG6265775",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c5517902aa3d.html",
+      "condition": "used",
+      "price": 25990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2016 for salein Terrace",
+      "vin": "3C6UR5KL7GG286163",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/805094e3f237.html",
+      "condition": "used",
+      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
@@ -46,6 +78,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 3500 2019 for salein Terrace",
+      "vin": "3C63RRJL8KG523899",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/1af2cc65b2cc.html",
+      "condition": "used",
+      "price": 54990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Grand Cherokee 2021 for salein Terrace",
       "vin": "1C4RJFAG5MC687113",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/bfd9de3d3cdd.html",
@@ -78,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Durango 2022 for salein Terrace",
+      "vin": "1C4RDJAG9NC183546",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/4267bff29d04.html",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Bronco 2022 for salein Terrace",
       "vin": "1FMEE5DH2NLB19349",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/7e9a2a056802.html",
@@ -99,6 +147,14 @@
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/2d23c8dfb777.html",
       "condition": "used",
       "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 2500 HD 2023 for salein Terrace",
+      "vin": "1GT49ME74PF147109",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/781cccdee6a8.html",
+      "condition": "used",
+      "price": 49990.0,
       "price_currency": "CAD"
     },
     {
@@ -243,17 +299,6 @@
     {
       "name": "2014 RAM 1500 ",
       "vin": "1C6RR7GMXES294086",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/d8d4d3fd4af8.html",
-      "year": 2014,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 RAM 1500 ",
-      "vin": "1C6RR7GMXES294086",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/6f15e21e3f5a.html",
       "year": 2014,
       "make": "RAM",
@@ -298,17 +343,6 @@
     {
       "name": "2016 Dodge Grand Caravan ",
       "vin": "2C4RDGBG0GR223685",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/366d2831469f.html",
-      "year": 2016,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG0GR223685",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/366d2831469f.html",
       "year": 2016,
       "make": "Dodge",
@@ -329,31 +363,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 GMC Terrain ",
-      "vin": "2GKFLUEKXG6265775",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/c5517902aa3d.html",
-      "year": 2016,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 RAM 2500 4WD Crew Cab 8 Ft Box Laramiein Terrace",
       "vin": "3C6UR5KL7GG286163",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/abf85e93e2b5.html",
-      "year": 2016,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 RAM 2500 ",
-      "vin": "3C6UR5KL7GG286163",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/805094e3f237.html",
       "year": 2016,
       "make": "RAM",
       "model": "2500",
@@ -519,17 +531,6 @@
       "name": "2019 RAM 3500 Laramie 4x4 Crew Cab 8' Boxin Terrace",
       "vin": "3C63RRJL8KG523899",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/8de8cf3143f1.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 3500 ",
-      "vin": "3C63RRJL8KG523899",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/1af2cc65b2cc.html",
       "year": 2019,
       "make": "RAM",
       "model": "3500",
@@ -747,17 +748,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Dodge Durango ",
-      "vin": "1C4RDJAG9NC183546",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/4267bff29d04.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 30990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Bronco Base 4 Door Advanced 4x4in Terrace",
       "vin": "1FMEE5DH2NLB19349",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/f89ede6dc7c3.html",
@@ -827,17 +817,6 @@
       "name": "2023 GMC Sierra 2500 HD 4WD Crew Cab Long Box SLEin Terrace",
       "vin": "1GT49ME74PF147109",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/83ea6409f0c6.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Sierra 2500",
-      "condition": "used",
-      "price": 49990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 GMC Sierra 2500 HD ",
-      "vin": "1GT49ME74PF147109",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/781cccdee6a8.html",
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 2500",
