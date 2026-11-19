@@ -1,7 +1,7 @@
 {
   "dealership": "Terrace Chrysler Dodge Jeep Ram Ltd",
-  "generated_at": "2026-11-18T20:53:12",
-  "vehicle_count": 171,
+  "generated_at": "2026-11-18T21:13:41",
+  "vehicle_count": 168,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -390,6 +390,70 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Wrangler 2020 for salein Terrace",
+      "vin": "1C4HJXEG9LW212685",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1b37deea4a40.html",
+      "condition": "new",
+      "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2021 for salein Terrace",
+      "vin": "3GCUYHET7MG451052",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3f277991fad3.html",
+      "condition": "new",
+      "price": 43990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2021 for salein Terrace",
+      "vin": "1C4RJFAG5MC687113",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/bfd9de3d3cdd.html",
+      "condition": "new",
+      "price": 24990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2021 for salein Terrace",
+      "vin": "3C63R3ELXMG565713",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/b4a5179c53d6.html",
+      "condition": "new",
+      "price": 63990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2022 for salein Terrace",
+      "vin": "2C4RC3FG6NR109046",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3a0ec30db4d1.html",
+      "condition": "new",
+      "price": 35495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2022 for salein Terrace",
+      "vin": "1FMEE5DH2NLB19349",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/7e9a2a056802.html",
+      "condition": "new",
+      "price": 38990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep 2022 for salein Terrace",
+      "vin": "1C4SJVDT4NS177590",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/25a985413130.html",
+      "condition": "new",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wagoneer 2022 for salein Terrace",
+      "vin": "1C4SJVDT4NS177590",
+      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3db61ad84e91.html",
+      "condition": "new",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 RAM 1500 4WD Quad Cab 6.4 Ft Box SLTin Terrace",
       "vin": "1C6RR7GMXES294086",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/3b8e0ea00c27.html",
@@ -555,28 +619,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Jeep Gladiator ",
-      "vin": "1C6JJTBG1LL215085",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/f847ab2d16a8.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Jeep Wrangler ",
-      "vin": "1C4HJXEG9LW212685",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/1b37deea4a40.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Chevrolet Silverado 1500 Crew Cab Standard Box 4-Wheel Drive High Countryin Terrace",
       "vin": "3GCUYHET7MG451052",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/6b1093a893b6.html",
@@ -588,28 +630,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Silverado 1500 ",
-      "vin": "3GCUYHET7MG451052",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3f277991fad3.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 43990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Santa Fe ",
-      "vin": "5NMS5DAL8MH326919",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/fd2a8b3f4c9f.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "new",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Grand Cherokee Laredo 4x4in Terrace",
       "vin": "1C4RJFAG5MC687113",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/465fc493e2ad.html",
@@ -617,17 +637,6 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFAG5MC687113",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/bfd9de3d3cdd.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
       "price": 24990.0,
       "price_currency": "CAD"
     },
@@ -654,17 +663,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 RAM 3500 ",
-      "vin": "3C63R3ELXMG565713",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/b4a5179c53d6.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 63990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Toyota Tacoma 4x4 Double Cab Autoin Terrace",
       "vin": "5TFDZ5BN5MX058745",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/6248dfc5f51c.html",
@@ -683,17 +681,6 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 35495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chrysler Pacifica ",
-      "vin": "2C4RC3FG6NR109046",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3a0ec30db4d1.html",
-      "year": 2022,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
       "price": 35495.0,
       "price_currency": "CAD"
     },
@@ -720,17 +707,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMEE5DH2NLB19349",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/7e9a2a056802.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Jeep Wagoneer Series III 4x4in Terrace",
       "vin": "1C4SJVDT4NS177590",
       "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/dc48386e7d00.html",
@@ -738,28 +714,6 @@
       "make": "Jeep",
       "model": "Wagoneer",
       "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Grand Cherokee 4xe ",
-      "vin": "1C4RJYB62N8734720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/25a985413130.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Wagoneer ",
-      "vin": "1C4SJVDT4NS177590",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/3db61ad84e91.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wagoneer",
-      "condition": "new",
       "price": 45990.0,
       "price_currency": "CAD"
     },
@@ -783,17 +737,6 @@
       "model": "Sierra 2500",
       "condition": "used",
       "price": 49990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 2500 ",
-      "vin": "3C6TR5EJ8PG553512",
-      "url": "https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/new/898a53ce703c.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 70990.0,
       "price_currency": "CAD"
     },
     {

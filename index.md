@@ -1,6 +1,6 @@
 # Terrace Chrysler Dodge Jeep Ram Ltd
 
- dealership in Terrace. AI-readable inventory mirror, about 171 vehicles.
+ dealership in Terrace. AI-readable inventory mirror, about 168 vehicles.
 
 - Official website: https://www.terracechrysler.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/terrace-chrysler-dodge-jeep-ram-ltd-mirror/used/
